@@ -1,0 +1,20 @@
+CALCOLO SAD TRA DUE BLOCCHI DI IMMAGINI
+								
+SVILUPPATORI:	
+-   Carmine Benedetto (http://www.carminebenedetto.net)	 				
+-   Silvio Bianchi (silv.bianchi@gmail.com)
+
+ISTRUZIONI DI COMPILAZIONE:
+Posizionarsi nella directory /src e digitare da shell:
+* make sad 	- nel caso si voglia compilare il codice relativo al caso specifico;
+* make test 	- nel caso si voglia compilare il codice relativo al test del caso  specifico;
+* make sad_n 	- nel caso si voglia compilare il codice relativo al caso generale;
+* make test_n 	- nel caso si voglia compilare il codice relativo al test del caso generale;
+* make 		- nel caso si vogliano compilare tutte le parti di codice sopra elencate.
+
+ISTRUZIONI DI ESECUZIONE/VISUALIZZAZIONE DEL TESTBENCH:
+Posizionarsi nella directory /testbench e digitare da shell:
+* gtkwave sad.vcd 	- nel caso si voglia visualizzare il testbench relativo al caso specifico;
+* gtkwave sad_n.vcd 	- nel caso si voglia visualizzare il testbench relativo al caso generale.
+
+Per maggiori informazioni consultare la documentazione all'interno della directory /doc.

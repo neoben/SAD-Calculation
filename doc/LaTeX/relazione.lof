@@ -1,0 +1,11 @@
+\select@language {italian}
+\contentsline {figure}{\numberline {1}{\ignorespaces Flusso di progettazione}}{6}
+\contentsline {figure}{\numberline {2}{\ignorespaces Architettura SAD con ingressi ed uscite specifici}}{7}
+\contentsline {figure}{\numberline {3}{\ignorespaces Architettura SAD con ingressi ed uscite generici}}{8}
+\contentsline {figure}{\numberline {4}{\ignorespaces Modulo Padding}}{13}
+\contentsline {figure}{\numberline {5}{\ignorespaces Modulo Differenza}}{14}
+\contentsline {figure}{\numberline {6}{\ignorespaces Modulo Valore Assoluto}}{15}
+\contentsline {figure}{\numberline {7}{\ignorespaces Modulo Somma}}{16}
+\contentsline {figure}{\numberline {8}{\ignorespaces Testbench - Parte iniziale}}{17}
+\contentsline {figure}{\numberline {9}{\ignorespaces Testbench - Parte centrale}}{17}
+\contentsline {figure}{\numberline {10}{\ignorespaces Testbench - Parte finale}}{17}

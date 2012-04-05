@@ -1,0 +1,18 @@
+\select@language {italian}
+\contentsline {section}{\numberline {1}Specifiche Formali}{4}
+\contentsline {subsection}{\numberline {1.1}Prima fase}{4}
+\contentsline {subsection}{\numberline {1.2}Seconda fase}{4}
+\contentsline {section}{\numberline {2}Descrizione dell'algoritmo}{5}
+\contentsline {section}{\numberline {3}Architettura selezionata per la realizzazione}{6}
+\contentsline {subsection}{\numberline {3.1}Modello architetturale}{6}
+\contentsline {subsection}{\numberline {3.2}Caso specifico}{7}
+\contentsline {subsection}{\numberline {3.3}Caso generale}{7}
+\contentsline {section}{\numberline {4}Analisi VHDL}{9}
+\contentsline {subsection}{\numberline {4.1}Codice caso specifico}{9}
+\contentsline {subsection}{\numberline {4.2}Codice caso generale}{11}
+\contentsline {subsection}{\numberline {4.3}Padding sugli ingressi}{13}
+\contentsline {subsection}{\numberline {4.4}Differenza degli ingressi}{14}
+\contentsline {subsection}{\numberline {4.5}Valore assoluto della differenza}{15}
+\contentsline {subsection}{\numberline {4.6}Somma dei valori assoluti}{16}
+\contentsline {section}{\numberline {5}Testbench}{17}
+\contentsline {section}{\numberline {6}Istruzioni di compilazione ed esecuzione}{18}
